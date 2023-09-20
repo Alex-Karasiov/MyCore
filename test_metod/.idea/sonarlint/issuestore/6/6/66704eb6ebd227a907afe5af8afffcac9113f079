@@ -1,0 +1,12 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãñ›¢
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãñ›¢
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áð®Íþÿÿÿÿ
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ãòû
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ«Ã/
+l	java:S116"WRename this field "breed_of_pet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÌ§„
+s	java:S116"YRename this field "id_pet_breeder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰…ŸØûÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„àŠ üÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áð®Íþÿÿÿÿ
+c	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¹·ÿ
+c	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ãòû
