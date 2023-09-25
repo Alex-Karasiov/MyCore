@@ -1,14 +1,24 @@
 import BD.Conection;
-import Crud.Crud_metod_all;
 
+import java.io.IOException;
 import java.sql.SQLException;
 
-public class Main {
-    public static void main(String[] args) throws SQLException, ClassNotFoundException {
-       new Conection().connection();
+import static clientserver.TestASClient.testClient;
+import static clientserver.TestAsServer.testServer;
 
-       new Crud_metod_all().Add_BD();
-        new Crud_metod_all().Look_All_BD().stream().sorted();
+public class Main {
+    public static void main(String[] args) throws SQLException, ClassNotFoundException, InterruptedException, RuntimeException, IOException {
+
+        new Conection().connection();
+
+        // new Crud_metod_all().Add_BD();
+        // new Crud_metod_all().Look_All_BD().stream().sorted();
+
+
+        testServer();
+
+        //testClient();
+
 
 
 
